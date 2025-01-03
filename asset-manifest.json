@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tg-bot/static/css/main.2f7eeb10.css",
+    "main.js": "/tg-bot/static/js/main.5cc61908.js",
+    "index.html": "/tg-bot/index.html",
+    "main.2f7eeb10.css.map": "/tg-bot/static/css/main.2f7eeb10.css.map",
+    "main.5cc61908.js.map": "/tg-bot/static/js/main.5cc61908.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f7eeb10.css",
+    "static/js/main.5cc61908.js"
+  ]
+}
