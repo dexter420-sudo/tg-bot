@@ -1,0 +1,38 @@
+
+#ancestor{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* play something with here, u'll get it */
+}
+
+#child1{
+  display: flex;
+  overflow: scroll;
+  height: calc(100vh - 66px);
+
+}
+
+#child2{
+  margin-top: 10px;
+}
+
+
+#child2 > ul > li > a{
+  padding: 20px;
+}
+
+#ancestor{
+  /* background-color: #34495E; */
+}
+.is-size-6-5{
+  font-size: 0.88rem;
+}
+
+.break-it{
+  word-break: break-all;
+}
+
+#video_container{
+  height: 100vh;
+}
