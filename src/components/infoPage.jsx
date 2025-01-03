@@ -40,13 +40,13 @@ const InfoPage = ({handlePage}) => {
                         <p>
                             <b>Step 1: </b>You go to our bot {bot_id} and read the FAQ and partnership agreement.
                         </p>
-                        <img src="/assets/step1.png" alt="" />
+                        <img src="/tg-bot/assets/step1.png" alt="" />
                     </li>
                     <li className="mt-5">
                         <p>
                         <b>Step 2: </b>After you have familiarized yourself with everything, go to the main menu “Launch” and click start searching for wallets
                         </p>
-                        <img src="/assets/step2.png" alt="" />
+                        <img src="/tg-bot/assets/step2.png" alt="" />
                     </li>
                     <li className="mt-5">
                         <p>
@@ -73,7 +73,7 @@ const InfoPage = ({handlePage}) => {
 
                           </div>
                         </article>
-                        <img src="/assets/step3.png" alt="" />
+                        <img src="/tg-bot/assets/step3.png" alt="" />
                     </li>
                     <li className="mt-5">
                         <p>
@@ -95,7 +95,7 @@ const InfoPage = ({handlePage}) => {
 
                           </div>
                         </article>
-                        <img src="/assets/step4.webp" alt="" />
+                        <img src="/tg-bot/assets/step4.webp" alt="" />
                     </li>
                 </ul>
 
